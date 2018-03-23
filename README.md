@@ -2,9 +2,9 @@
 
 This is hosted on Heroku.
 
-The ENV refferences in the code, refer to environment variables.
+The ENV references in the code, refer to environment variables.
 
-**List of environment variables**
+### List of environment variables
 
 Database:
 * DB_HOST
