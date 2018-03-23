@@ -45,3 +45,8 @@ Twitter:
 * ACCESS_TOKEN_SECRET
 
 To run the script locally, you can use [dotenv](https://github.com/bkeepers/dotenv) to create a .env and set your own values for these environment variables. On Heroku, you can set those in the Settings->Config Variables.
+
+***
+## How to Run:
+
+`ruby tweet_funds.rb`
