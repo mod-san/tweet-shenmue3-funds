@@ -1,3 +1,5 @@
+# https://github.com/rails/rails/blob/master/activesupport/lib/active_support/core_ext/object/duplicable.rb
+
 #--
 # Most objects are cloneable, but not all. For example you can't dup +nil+:
 #
